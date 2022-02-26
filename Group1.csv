@@ -1,0 +1,152 @@
+Group1_key,ecollectionevents_key,irn,ColCollectionEventCode,ColCollectionType,ColCollectionMethods,ColSpecifics,NamFullName,ColParticipantRole_tab,SitSiteNumber,MapASLQualifierAccuracy,ColDateVisitedTo,ColDateVisitedFrom,SecDepartment_tab,HabHabitat,AdmPublishWebNoPassword,AdmPublishWebPassword
+1,1,3190484,RI-12 MAMMALS,Terrestrial,,,,,RI-12,,,,Action,,Yes,Yes
+2,2,3165876,RI-12.B-1-2 MAMMALS,Human Observation,Trap,Mist net,Olga L. Montenegro,"Collector
+Collector",RI-12.B-1,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+3,2,3165876,RI-12.B-1-2 MAMMALS,Human Observation,,,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-1,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+4,3,3550165,RI-12.B-1-7 MAMMALS,Human Observation,Direct Observation,Burrow,Olga L. Montenegro,"Collector
+Collector",RI-12.B-1,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+5,3,3550165,RI-12.B-1-7 MAMMALS,Human Observation,Direct Observation,Tracks,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-1,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+6,4,3550166,RI-12.B-1-8 MAMMALS,Human Observation,Direct Observation,Tracks,Olga L. Montenegro,"Collector
+Collector",RI-12.B-1,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+7,4,3550166,RI-12.B-1-8 MAMMALS,Human Observation,Direct Observation,Feeding sign and/or Scratch marks,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-1,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+8,5,3165883,RI-12.B-1-1 MAMMALS,Human Observation,Direct Observation,Burrow,Olga L. Montenegro,"Collector
+Collector",RI-12.B-1,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+9,5,3165883,RI-12.B-1-1 MAMMALS,Human Observation,,,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-1,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+10,6,3165872,RI-12.B-1-3 MAMMALS,Human Observation,Direct Observation,Organism,Olga L. Montenegro,"Collector
+Collector",RI-12.B-1,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+11,6,3165872,RI-12.B-1-3 MAMMALS,Human Observation,,,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-1,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+12,7,3165886,RI-12.B-1-4 MAMMALS,Human Observation,Direct Observation,Feeding sign and/or Scratch marks,Olga L. Montenegro,"Collector
+Collector",RI-12.B-1,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+13,7,3165886,RI-12.B-1-4 MAMMALS,Human Observation,,,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-1,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+14,8,3165885,RI-12.B-1-5 MAMMALS,Human Observation,Direct Observation,Organism,Olga L. Montenegro,"Collector
+Collector",RI-12.B-1,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+15,8,3165885,RI-12.B-1-5 MAMMALS,Human Observation,Direct Observation,Tracks,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-1,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+16,9,3165881,RI-12.B-1-6 MAMMALS,Human Observation,Direct Observation,Tracks,Olga L. Montenegro,"Collector
+Collector",RI-12.B-1,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+17,9,3165881,RI-12.B-1-6 MAMMALS,Human Observation,,,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-1,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+18,10,3165873,RI-12.B-2-2 MAMMALS,Human Observation,Trap,Mist net,Olga L. Montenegro,"Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+19,10,3165873,RI-12.B-2-2 MAMMALS,Human Observation,,,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+20,11,3550345,RI-12.B-2-5 MAMMALS,Human Observation,Direct Observation,Organism,Olga L. Montenegro,"Collector
+Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+21,11,3550345,RI-12.B-2-5 MAMMALS,Human Observation,Direct Observation,Tracks,Mário Escobedo Torres,"Collector
+Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+22,11,3550345,RI-12.B-2-5 MAMMALS,Human Observation,,,Debra K. Moskovits,"Collector
+Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+23,12,3550346,RI-12.B-2-8 MAMMALS,Human Observation,Direct Observation,Burrow,Olga L. Montenegro,"Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+24,12,3550346,RI-12.B-2-8 MAMMALS,Human Observation,Direct Observation,Tracks,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+25,13,3550347,RI-12.B-2-9 MAMMALS,Human Observation,Direct Observation,Tracks,Olga L. Montenegro,"Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+26,13,3550347,RI-12.B-2-9 MAMMALS,Human Observation,Direct Observation,Feeding sign and/or Scratch marks,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+27,14,3165879,RI-12.B-2-1 MAMMALS,Human Observation,Direct Observation,Burrow,Olga L. Montenegro,"Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+28,14,3165879,RI-12.B-2-1 MAMMALS,Human Observation,,,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+29,15,3165871,RI-12.B-2-3 MAMMALS,Human Observation,Direct Observation,Organism,Olga L. Montenegro,"Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+30,15,3165871,RI-12.B-2-3 MAMMALS,Human Observation,,,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+31,16,3165887,RI-12.B-2-4 MAMMALS,Human Observation,Direct Observation,Organism,Olga L. Montenegro,"Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+32,16,3165887,RI-12.B-2-4 MAMMALS,Human Observation,Direct Observation,Tracks,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+33,17,3165878,RI-12.B-2-6 MAMMALS,Human Observation,Direct Observation,Tracks,Olga L. Montenegro,"Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+34,17,3165878,RI-12.B-2-6 MAMMALS,Human Observation,,,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+35,18,3165875,RI-12.B-2-7 MAMMALS,Human Observation,Direct Observation,Vocalization,Olga L. Montenegro,"Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+36,18,3165875,RI-12.B-2-7 MAMMALS,Human Observation,,,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-2,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+37,19,3165877,RI-12.B-3-2 MAMMALS,Human Observation,Trap,Mist net,Olga L. Montenegro,"Collector
+Collector",RI-12.B-3,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+38,19,3165877,RI-12.B-3-2 MAMMALS,Human Observation,,,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-3,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+39,20,3550353,RI-12.B-3-7 MAMMALS,Human Observation,Direct Observation,Burrow,Olga L. Montenegro,"Collector
+Collector",RI-12.B-3,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+40,20,3550353,RI-12.B-3-7 MAMMALS,Human Observation,Direct Observation,Tracks,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-3,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+41,21,3165882,RI-12.B-3-1 MAMMALS,Human Observation,Direct Observation,Tracks,Olga L. Montenegro,"Collector
+Collector",RI-12.B-3,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+42,21,3165882,RI-12.B-3-1 MAMMALS,Human Observation,,,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-3,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+43,22,3165870,RI-12.B-3-3 MAMMALS,Human Observation,Direct Observation,Organism,Olga L. Montenegro,"Collector
+Collector",RI-12.B-3,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+44,22,3165870,RI-12.B-3-3 MAMMALS,Human Observation,,,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-3,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+45,23,3165884,RI-12.B-3-4 MAMMALS,Human Observation,Direct Observation,Feeding sign and/or Scratch marks,Olga L. Montenegro,"Collector
+Collector",RI-12.B-3,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+46,23,3165884,RI-12.B-3-4 MAMMALS,Human Observation,,,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-3,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+47,24,3165880,RI-12.B-3-5 MAMMALS,Human Observation,Direct Observation,Organism,Olga L. Montenegro,"Collector
+Collector",RI-12.B-3,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+48,24,3165880,RI-12.B-3-5 MAMMALS,Human Observation,Direct Observation,Tracks,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-3,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+49,25,3165874,RI-12.B-3-6 MAMMALS,Human Observation,Direct Observation,Vocalization,Olga L. Montenegro,"Collector
+Collector",RI-12.B-3,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
+50,25,3165874,RI-12.B-3-6 MAMMALS,Human Observation,,,Mário Escobedo Torres,"Collector
+Collector",RI-12.B-3,,8/21/2003,8/3/2003,"Action
+Mammals",,Yes,Yes
